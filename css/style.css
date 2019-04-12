@@ -41,6 +41,9 @@ a:hover, a:focus {
 ul, ol {
 	list-style: none;
 }
+textarea {
+	resize: vertical;
+}
 .clearfix:after {
 	visibility: hidden;
 	display: block;
